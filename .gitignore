@@ -32,3 +32,4 @@ build/
 .mvn
 mvnw.cmd
 mvnw
+application-prod.yml

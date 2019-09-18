@@ -25,6 +25,12 @@
         </dependency>
 
         <dependency>
+            <groupId>com.uwjx</groupId>
+            <artifactId>uwjx-commons</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+
+        <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
